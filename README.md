@@ -6,4 +6,5 @@ You’re now ready to take on a full web-scraping and data analysis project. You
 
 Instructions
 Part 1: Scrape Titles and Preview Text from Mars News
+
 Part 2: Scrape and Analyze Mars Weather Data
